@@ -1,0 +1,24 @@
+{
+  "name": "js-test",
+  "description": "Hello, Chartlytics!",
+  "slug": "js-test",
+  "sdkVersion": "12.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "iconUrl": "https://pbs.twimg.com/profile_images/493874518255874048/Eg7U8Rao.png",
+  "notification": {
+    "iconUrl": "https://s3.amazonaws.com/exp-us-standard/placeholder-push-icon-blue-circle.png",
+    "color": "#000000"
+  },
+  "loading": {
+    "iconUrl": "https://pbs.twimg.com/profile_images/493874518255874048/Eg7U8Rao.png",
+    "hideExponentText": true
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}

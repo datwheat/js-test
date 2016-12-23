@@ -1,0 +1,22 @@
+{
+  "name": "js-test",
+  "version": "0.0.0",
+  "description": "Hello Chartlytics!",
+  "author": "Juwan Wheatley",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@exponent/vector-icons": "~2.0.3",
+    "chalkdust": "^1.1.0",
+    "exponent": "~12.0.3",
+    "lodash": "^4.17.2",
+    "react": "~15.3.2",
+    "react-native": "git+https://github.com/exponentjs/react-native#sdk-12.0.0"
+  },
+  "devDependencies": {
+    "jest": "^18.0.0"
+  }
+}
